@@ -58,6 +58,8 @@ To run the simulation, follow these steps:
    - **W/S:** Increase/Decrease Speed
    - **A/D:** Rotate Left/Right
 
+<img width="600" alt="pygame ss" src="https://github.com/Rishit-katiyar/EKV_Control_Simulation/assets/167756997/08c489ea-89cf-49b5-bf8f-3df2639dee2b">
+
 3. **Enjoy Exploring!**
    - Use the controls to navigate the EKV in the 3D environment.
    - Experiment with different speeds and rotations to master the control.
